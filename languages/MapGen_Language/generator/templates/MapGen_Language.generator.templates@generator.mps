@@ -389,14 +389,14 @@
             <node concept="3clFbF" id="5EXR08r$sAS" role="8Wnug">
               <node concept="2OqwBi" id="5EXR08r$sQC" role="3clFbG">
                 <node concept="37vLTw" id="5EXR08r$sAQ" role="2Oq$k0">
-                  <ref role="3cqZAo" node="5EXR08rw5lJ" resolve="mymap" />
+                  <ref role="3cqZAo" node="5EXR08rw5lJ" resolve="myMap" />
                 </node>
                 <node concept="liA8E" id="5EXR08r$tul" role="2OqNvi">
                   <ref role="37wK5l" to="9kmd:5EXR08r$h_m" resolve="addPlayer" />
                   <node concept="2ShNRf" id="5EXR08r$tLU" role="37wK5m">
                     <node concept="1pGfFk" id="5EXR08r$vjw" role="2ShVmc">
                       <property role="373rjd" value="true" />
-                      <ref role="37wK5l" node="5EXR08rv7ey" resolve="Player" />
+                      <ref role="37wK5l" node="5EXR08rv7ey" resolve="MyPlayer" />
                       <node concept="Xl_RD" id="5EXR08r$vt6" role="37wK5m">
                         <property role="Xl_RC" value="name" />
                       </node>
@@ -470,7 +470,7 @@
               <node concept="3clFbF" id="5EXR08r$gdf" role="3cqZAp">
                 <node concept="2OqwBi" id="5EXR08r$gDh" role="3clFbG">
                   <node concept="37vLTw" id="5EXR08r$gdd" role="2Oq$k0">
-                    <ref role="3cqZAo" node="5EXR08rw5lJ" resolve="mymap" />
+                    <ref role="3cqZAo" node="5EXR08rw5lJ" resolve="myMap" />
                   </node>
                   <node concept="liA8E" id="5EXR08r$h64" role="2OqNvi">
                     <ref role="37wK5l" to="9kmd:5EXR08r$h_m" resolve="addPlayer" />
