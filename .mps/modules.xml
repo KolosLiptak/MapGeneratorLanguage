@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/MapGen_Language/MapGen_Language.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/MapGen_Language/sandbox/MapGen_Language.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JavaRuntime/JavaRuntime.msd" folder="" />
+    </projectModules>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MapGeneratorLanguage.iml" filepath="$PROJECT_DIR$/.idea/MapGeneratorLanguage.iml" />
+    </modules>
+  </component>
+</project>
