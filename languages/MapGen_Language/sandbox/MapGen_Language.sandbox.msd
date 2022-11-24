@@ -13,6 +13,7 @@
   <sourcePath />
   <dependencies>
     <dependency reexport="false">6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)</dependency>
+    <dependency reexport="false">5898fbc4-fc85-46b1-9869-c91a97c25a46(JavaRuntime)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:06603edc-de01-4f88-a0d0-68aced597e99:MapGen_Language" version="0" />
@@ -23,6 +24,7 @@
   </languageVersions>
   <dependencyVersions>
     <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
+    <module reference="5898fbc4-fc85-46b1-9869-c91a97c25a46(JavaRuntime)" version="0" />
     <module reference="ebda2ac3-3774-44b0-92c0-5e58e7bbe469(MapGen_Language.sandbox)" version="0" />
   </dependencyVersions>
 </solution>

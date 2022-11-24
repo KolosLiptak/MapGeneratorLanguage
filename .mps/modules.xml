@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/MapGen_Language/MapGen_Language.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/MapGen_Language/sandbox/MapGen_Language.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JavaRuntime/JavaRuntime.msd" folder="" />
     </projectModules>
   </component>
 </project>

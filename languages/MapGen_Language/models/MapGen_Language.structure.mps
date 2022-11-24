@@ -224,7 +224,7 @@
     <property role="EcuMT" value="2363873691801708975" />
     <property role="TrG5h" value="Without" />
     <property role="3GE5qa" value="Effects" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="23eaD$HIQAK" role="1TKVEi">
       <property role="IQ2ns" value="2363873691801708976" />
       <property role="20kJfa" value="object" />
@@ -237,7 +237,7 @@
     <property role="TrG5h" value="Target" />
     <property role="3GE5qa" value="Targets" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="23eaD$HIQBp">
     <property role="EcuMT" value="2363873691801709017" />
@@ -268,7 +268,7 @@
     <property role="TrG5h" value="Effect" />
     <property role="3GE5qa" value="Effects" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="23eaD$HLmG5">
     <property role="EcuMT" value="2363873691802364677" />
@@ -299,7 +299,7 @@
     <property role="3GE5qa" value="Occurrence" />
     <property role="TrG5h" value="Occurrence" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="4dCXczAUv35">
     <property role="EcuMT" value="4857401341823807685" />
