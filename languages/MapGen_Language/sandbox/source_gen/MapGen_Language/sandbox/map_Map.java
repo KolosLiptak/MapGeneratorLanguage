@@ -4,18 +4,43 @@ package MapGen_Language.sandbox;
 
 import JavaRuntime.Runtime.MyMap;
 import JavaRuntime.Runtime.Player;
+import JavaRuntime.Runtime.MapObject;
 
 public class map_Map {
   public static MyMap myMap = new MyMap();
 
-  private int height = 0;
-  private int width = 0;
-  private int neighbours = 0;
+  private Integer height = 0;
+  private Integer width = 0;
+  private Integer neighbours = 0;
 
   public void init() {
     {
       Player player = new Player("Player1", 1500);
       myMap.addPlayer(player);
+    }
+    {
+      MapObject mapObject = new MapObject("Backpack", 'P', 2);
+      myMap.addMapObject(mapObject);
+    }
+    {
+      MapObject mapObject = new MapObject("Horse", 'H', 2);
+      myMap.addMapObject(mapObject);
+    }
+    {
+      MapObject mapObject = new MapObject("Boat", 'B', 1);
+      myMap.addMapObject(mapObject);
+    }
+    {
+      MapObject mapObject = new MapObject("Chest", 'C', 1);
+      myMap.addMapObject(mapObject);
+    }
+    {
+      MapObject mapObject = new MapObject("Key", 'K', 1);
+      myMap.addMapObject(mapObject);
+    }
+    {
+      MapObject mapObject = new MapObject("Monster", 'M', 5);
+      myMap.addMapObject(mapObject);
     }
 
   }
